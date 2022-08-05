@@ -1,1 +1,7 @@
 testing
+
+>git init
+>git commit -m "Version 1"
+
+enter email & id
+>$ git config --global user.email "ethicaltester4444@gmail.com"

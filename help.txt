@@ -1,0 +1,30 @@
+set project folder for github
+
+1. choose location them,
+
+//inside that folder
+2. >git init	(use to setup git folder)
+
+staging level <inserting all files>
+
+1. git add -a	(use to track project files)
+
+commit <last level>
+
+1. >git commit -m "Version 1"	(save project)
+
+setting orign <connect local dir to github repo>
+enter email & id
+>$ git config --global user.email "ethicaltester4444@gmail.com"
+
+SUMMARY*
+saving of modifed proect files.
+
+<project changes>
+<git status>
+<statging>
+<git commit -m "Version 2.0">
+<git log>
+
+
+

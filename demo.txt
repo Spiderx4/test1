@@ -5,3 +5,15 @@ testing
 
 enter email & id
 >$ git config --global user.email "ethicaltester4444@gmail.com"
+
+/saving file as v1/
+>$ git commit -m "version 1"
+
+//make changes in the file the repeat commit
+
+/saving file as v1/
+>$ git commit -m "version 1"
+
+check history
+>git log 
+
